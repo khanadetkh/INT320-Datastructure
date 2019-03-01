@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package test01;
+package DS;
 
 import java.util.ArrayList;
 import java.util.Collections;
